@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on **ML and Computer vision** Projects.
 - 🤔 I’m looking for help with **Computer Vision**
 - 💬 Ask me about **Data science**
-- 📫 How to reach me: (http://www.linkedin.com/in/anish-joel/)
-(mailto:bastiananish@gmail.com)
+- 📫 How to reach me: <http://www.linkedin.com/in/anish-joel/> <bastiananish@gmail.com>
+
 
